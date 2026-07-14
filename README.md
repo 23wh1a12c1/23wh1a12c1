@@ -5,7 +5,7 @@ AI/ML Enthusiast | Full Stack Developer | B.Tech IT Student
 </h3>
 
 <p align="center">
-<img src="./assets/banner.png" alt="Banner" width="100% font=Poppins&size=24&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Hackathon+Participant;Building+Real-World+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Hackathon+Participant;Building+Real-World+Applications;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
