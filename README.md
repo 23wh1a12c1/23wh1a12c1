@@ -10,3 +10,11 @@ Building AI-powered applications that solve real-world problems.
 <p align="center">
 <img src="YOUR_IMAGE_LINK" width="180">
 </p>
+## 👩‍💻 About Me
+
+- 🎓 B.Tech IT @ BVRIT Hyderabad
+- 📊 CGPA: 9.36
+- 🤖 Interested in AI, Machine Learning, NLP
+- 🌐 Full Stack Developer
+- 📱 Building real-world AI applications
+- 🌱 Currently learning Cloud & Kubernetes
